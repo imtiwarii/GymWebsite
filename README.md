@@ -75,7 +75,7 @@ This gym website is available under the [MIT License](https://github.com/imtiwar
 
 #### Pricing Section
 
-![8](https://github.com/imtiwarii/GymWebsite/assets/69896600/ecd59833-e250-43b8-b7b0-5155fbefc5d4)
+![8]<img width="1452" height="770" alt="Image" src="https://github.com/user-attachments/assets/29b88876-e3f1-4ec5-bf4f-ca13387d392b" />
 
 #### Footer Section
 
