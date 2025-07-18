@@ -19,6 +19,6 @@ Fitness website to be linked with a fitness app. Started as a school project.
 [`Click the Demo Button  and View Live Project`](https://imtiwarii.github.io/GymWebsite/)
 
 
-## `Project Live Url`:
+## Project Live Url:
 
 (https://imtiwarii.github.io/GymWebsite/)
