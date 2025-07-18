@@ -59,7 +59,7 @@ This gym website is available under the [MIT License](https://github.com/imtiwar
 
 #### FAQ Section
 
-![3](https://github.com/imtiwarii/GymWebsite/assets/69896600/b7f4fc8a-65f3-4b82-ad00-d8820a7aacfc)
+![3]<img width="1721" height="669" alt="Image" src="https://github.com/user-attachments/assets/e5e9c06d-d4ad-4083-8a3b-7b4b106d014d" />
 
 #### Our Classess Section
 
