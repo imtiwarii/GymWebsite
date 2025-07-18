@@ -67,7 +67,7 @@ This gym website is available under the [MIT License](https://github.com/imtiwar
 
 ####  Classes Scdedule Section
 
-![6](https://github.com/imtiwarii/GymWebsite/assets/69896600/a52126e1-a797-49c2-b5c2-12b4c4afa92a)
+![6]<img width="690" height="455" alt="Image" src="https://github.com/user-attachments/assets/9e6de9ff-03f9-4508-946c-f22f72245678" />
 
 #### Gallery Section
 
