@@ -51,7 +51,7 @@ This gym website is available under the [MIT License](https://github.com/imtiwar
 
 #### Main Hero Section
 
-![1](https://github.com/imtiwarii/GymWebsite/assets/69896600/5e2c2841-74be-4a66-8739-c98899af2afd)
+![1]<img width="1829" height="792" alt="Image" src="https://github.com/user-attachments/assets/0cc0c189-ba1b-4799-8f1c-ccb941e5abf1" />
 
 #### Training Guideline Section
 
