@@ -55,30 +55,26 @@ This gym website is available under the [MIT License](https://github.com/imtiwar
 
 #### Training Guideline Section
 
-![2](https://github.com/imtiwarii/GymWebsite/assets/69896600/0b3abfe7-2c48-46af-a417-389693856be0)
+![2]<img width="1903" height="821" alt="Image" src="https://github.com/user-attachments/assets/4e1ae468-6558-4720-9c99-93f8519c0508" />
 
 #### FAQ Section
 
 ![3]<img width="1721" height="669" alt="Image" src="https://github.com/user-attachments/assets/e5e9c06d-d4ad-4083-8a3b-7b4b106d014d" />
 
-#### Our Classess Section
-
-![4](https://github.com/imtiwarii/GymWebsite/assets/69896600/9be68bfd-9a43-46f4-9d5c-9d919e786c81)
-
 ####  Classes Scdedule Section
 
-![6]<img width="690" height="455" alt="Image" src="https://github.com/user-attachments/assets/9e6de9ff-03f9-4508-946c-f22f72245678" />
+![4]<img width="690" height="455" alt="Image" src="https://github.com/user-attachments/assets/9e6de9ff-03f9-4508-946c-f22f72245678" />
 
 #### Gallery Section
 
-![7]<img width="1756" height="727" alt="Image" src="https://github.com/user-attachments/assets/1d27dc3a-4315-47bd-98ce-20b3f1effa33" />
+![5]<img width="1756" height="727" alt="Image" src="https://github.com/user-attachments/assets/1d27dc3a-4315-47bd-98ce-20b3f1effa33" />
 
 #### Pricing Section
 
-![8]<img width="1452" height="770" alt="Image" src="https://github.com/user-attachments/assets/29b88876-e3f1-4ec5-bf4f-ca13387d392b" />
+![6]<img width="1452" height="770" alt="Image" src="https://github.com/user-attachments/assets/29b88876-e3f1-4ec5-bf4f-ca13387d392b" />
 
 #### Footer Section
 
-![9]<img width="1698" height="691" alt="Image" src="https://github.com/user-attachments/assets/6dac091d-5d6f-4f1f-90d8-420c98d3ab81" />
+![7]<img width="1698" height="691" alt="Image" src="https://github.com/user-attachments/assets/6dac091d-5d6f-4f1f-90d8-420c98d3ab81" />
 
 
